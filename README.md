@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Garmonik
+- 👀 I’m interested in C, C++, Python, C#...
+- 🌱 I’m currently learning MIPT
+- 📫 How to reach me koliadich.ma@phystech.edu
