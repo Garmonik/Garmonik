@@ -37,10 +37,9 @@
 <!-- YOUTUBE:END -->
 
   ### Statistics:
-   ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkKolyadich_count=8&layout=compact)
+   ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkKolyadich)
     <br />
-   ![codeSTACKr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkKolyadich&layout=compact)
-
+   ![codeSTACKr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkKolyadich)
 [youtube]: https://www.youtube.com/channel/UCvX-ZOz4jjpAJwP2khwTvgw
 [instagram]: https://www.instagram.com/kolyadichmark/?hl=ru
 [vk]: https://vk.com/garmonik_m
