@@ -40,6 +40,3 @@
    ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkKolyadich)
     <br />
    ![codeSTACKr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkKolyadich)
-[youtube]: https://www.youtube.com/channel/UCvX-ZOz4jjpAJwP2khwTvgw
-[instagram]: https://www.instagram.com/kolyadichmark/?hl=ru
-[vk]: https://vk.com/garmonik_m
