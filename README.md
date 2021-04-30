@@ -40,7 +40,7 @@
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Garmonik&show_icons=true&theme=radical" />
     <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Garmonik&repo=github-readme-stats" />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Garmonik&show_icons=true" />
 </details>
 
 [youtube]: https://www.youtube.com/channel/UCvX-ZOz4jjpAJwP2khwTvgw
