@@ -36,12 +36,10 @@
 - [Тригонометрия Часть 2](https://www.youtube.com/watch?v=9Aj0imz7ndY&t=695s)
 <!-- YOUTUBE:END -->
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarkKolyadich_count=8&layout=compact" />
+  ### Statistics:
+   ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkKolyadich_count=8&layout=compact)
     <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarkKolyadich_icons=true" />
-</details>
+   ![codeSTACKr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkKolyadich&layout=compact)
 
 [youtube]: https://www.youtube.com/channel/UCvX-ZOz4jjpAJwP2khwTvgw
 [instagram]: https://www.instagram.com/kolyadichmark/?hl=ru
