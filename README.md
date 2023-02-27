@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mark
 
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a BackEnd Developer, Data Scientist, and Teacher
 - 💪 I like to write code
 - 🎉 I love to play computer games and read books
 - 🥅 I am constantly learning new things
